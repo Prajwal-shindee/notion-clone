@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Live Link : [Motion](https://github.com/Prajwal-shindee).
+Live Link : [Motion](Live Link : [Motion](https://motion-note-taking-app.vercel.app/).
 
 ## Getting Started
 
